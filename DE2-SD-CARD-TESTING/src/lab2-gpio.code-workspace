@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Documents/PlatformIO/Projects/lab2-gpio"
+		},
+		{
+			"name": "lab3-timers",
+			"path": "../../../../Documents/PlatformIO/Projects/lab3-timers"
+		},
+		{
+			"name": "lab4-lcd",
+			"path": "../../../../Documents/PlatformIO/Projects/lab4-lcd"
+		},
+		{
+			"name": "lab5-uart",
+			"path": "../../../../Documents/PlatformIO/Projects/lab5-uart"
+		},
+		{
+			"name": "lab6-i2c",
+			"path": "../../../../Documents/PlatformIO/Projects/lab6-i2c"
+		},
+		{
+			"name": "lab7-asm",
+			"path": "../../../../Documents/PlatformIO/Projects/lab7-asm"
+		},
+		{
+			"name": "DE2-SD-CARD-TESTING",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
